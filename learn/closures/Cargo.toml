@@ -1,6 +1,5 @@
-workspace = { members = [ "learn/closures", "learn/threads","minigrep"] }
 [package]
-name = "RUST"
+name = "closures"
 version = "0.1.0"
 edition = "2021"
 
