@@ -7,7 +7,11 @@ enum Work {
     Civilian,
     Soldier,
 }
-
+enum User {
+    name: String,
+    age: u8,
+    
+}
 fn main() {
     use crate::Status::{Poor, Rich};
 

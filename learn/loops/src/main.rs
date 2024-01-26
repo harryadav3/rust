@@ -19,4 +19,7 @@ fn main() {
             break;
         }
     }
+    loop {
+        println!("again!");
+    }
 }

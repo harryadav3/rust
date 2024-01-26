@@ -18,6 +18,7 @@ use std::io::{BufRead, BufReader};
 /// let input = read_stding();
 /// ```
 ///
+///
 
 struct User {}
 pub fn read_stdin() -> String {
