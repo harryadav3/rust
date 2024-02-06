@@ -5,23 +5,121 @@
   </component>
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/cli-tools/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc5bddcd-0ac9-4558-889e-3e4aa5a679ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/RUST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RUST.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cli-tools/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/cli-tools/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cli-tools/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/cli-tools/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-403157f4df5cd000/output-bin-demo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-a7936330e6bccdfe/output-test-bin-demo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/loops/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/learn/loops/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/loops/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/learn/loops/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/src/lib.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/.rustc_info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/.rustdoc_fingerprint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/CACHEDIR.TAG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.cargo-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-0025fa56458177a4/doc-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-0025fa56458177a4/doc-lib-cli-tools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-1466e5c39b23c29d/dep-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-1466e5c39b23c29d/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-1466e5c39b23c29d/lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-1466e5c39b23c29d/lib-cli-tools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-1466e5c39b23c29d/output-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-1b7d6161a9220866/dep-test-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-1b7d6161a9220866/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-1b7d6161a9220866/output-test-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-1b7d6161a9220866/test-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-1b7d6161a9220866/test-lib-cli-tools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-f487c74c6b38f433/dep-test-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-f487c74c6b38f433/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-f487c74c6b38f433/output-test-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-f487c74c6b38f433/test-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-f487c74c6b38f433/test-lib-cli-tools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-fab6bad817363dab/dep-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-fab6bad817363dab/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-fab6bad817363dab/lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-fab6bad817363dab/lib-cli-tools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/.fingerprint/cli-tools-fab6bad817363dab/output-lib-cli-tools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/deps/cli_tools-1466e5c39b23c29d.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/deps/cli_tools-1b7d6161a9220866.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/deps/cli_tools-f487c74c6b38f433.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/deps/cli_tools-fab6bad817363dab.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/deps/libcli_tools-1466e5c39b23c29d.rmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/deps/libcli_tools-1b7d6161a9220866.rmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/deps/libcli_tools-f487c74c6b38f433.rmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/deps/libcli_tools-fab6bad817363dab.rmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-17lmpfkodk5br/s-gsrgdw18xj-umhumm-e53z03kfm0q5sw3fsi4yo930h/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-17lmpfkodk5br/s-gsrgdw18xj-umhumm-e53z03kfm0q5sw3fsi4yo930h/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-17lmpfkodk5br/s-gsrgdw18xj-umhumm-e53z03kfm0q5sw3fsi4yo930h/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-17lmpfkodk5br/s-gsrgdw18xj-umhumm.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-1ccsz9sq5osl0/s-gspr5fgseb-1h5y65-4kf144sfcecy3y7894x69jk7b/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-1ccsz9sq5osl0/s-gspr5fgseb-1h5y65-4kf144sfcecy3y7894x69jk7b/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-1ccsz9sq5osl0/s-gspr5fgseb-1h5y65-4kf144sfcecy3y7894x69jk7b/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-1ccsz9sq5osl0/s-gspr5fgseb-1h5y65.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-2coyjb2omlmx9/s-gsrgdw18xj-5g2xwn-nlolugt80zm91ofry2bee8en/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-2coyjb2omlmx9/s-gsrgdw18xj-5g2xwn-nlolugt80zm91ofry2bee8en/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-2coyjb2omlmx9/s-gsrgdw18xj-5g2xwn-nlolugt80zm91ofry2bee8en/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-2coyjb2omlmx9/s-gsrgdw18xj-5g2xwn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-35tcsq3ggmudc/s-gspr5fgseb-b2fr6l-dpvj0b05t1itchcxm8cgztwiq/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-35tcsq3ggmudc/s-gspr5fgseb-b2fr6l-dpvj0b05t1itchcxm8cgztwiq/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-35tcsq3ggmudc/s-gspr5fgseb-b2fr6l-dpvj0b05t1itchcxm8cgztwiq/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/debug/incremental/cli_tools-35tcsq3ggmudc/s-gspr5fgseb-b2fr6l.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/cli_tools/all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/cli_tools/fn.read_stdin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/cli_tools/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/cli_tools/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/crates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/help.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/settings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/src-files.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/src/cli_tools/lib.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/COPYRIGHT-23e9bde6c69aea69.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/FiraSans-LICENSE-db4b642586e02d97.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/FiraSans-Medium-8f9a781e4970d388.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/FiraSans-Regular-018c141bf0843ffd.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/LICENSE-APACHE-b91fa81cba47b86a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/LICENSE-MIT-65090b722b3f6c56.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/NanumBarunGothic-0f09457c7a19b7c6.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/NanumBarunGothic-LICENSE-18c5adf4b52b4041.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/SourceCodePro-It-1cc31594bf4f1f79.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/SourceCodePro-LICENSE-d180d465a756484a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/SourceCodePro-Regular-562dcc5011b6de7d.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/SourceCodePro-Semibold-d899c5a5c4aeb14a.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/SourceSerif4-Bold-a2c9cd1067f8b328.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/SourceSerif4-It-acdfaf1a8af734b1.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/SourceSerif4-LICENSE-3bb119e13b1258b7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/SourceSerif4-Regular-46f98efaafac5295.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/clipboard-7571035ce49a181d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/favicon-16x16-8b506e7a72182f1c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/favicon-2c020d218678b618.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/favicon-32x32-422f7d1d52889060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/main-9dd44ab47b99a0fb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/normalize-76eba96aa4d2e634.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/noscript-5d8b3c7633ad77ba.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/rust-logo-151179464ae7ed46.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/rustdoc-9ee3a5e31a2afa3e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/scrape-examples-ef1e698c1d417c0c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/search-8fbf244ebcf71464.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/settings-74424d7eec62a23e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/src-script-3280b574d94e47b4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/storage-fec3eaa3851e447d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-tools/target/doc/static.files/wheel-7b819b6101059cd0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/helloworld/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/helloworld/main.rs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,13 +131,16 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2YED8JZvhWAhrG0O2JHqT5p4ZWP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Cargo.Run.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Run.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -54,6 +155,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cli-tools/src/bin" />
+      <recent name="$PROJECT_DIR$/cli-tools/src" />
+      <recent name="$PROJECT_DIR$/cli-tools/tests" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run --package RUST --bin RUST" />
@@ -93,6 +201,16 @@
       <workItem from="1706133140105" duration="101000" />
       <workItem from="1706133269304" duration="1138000" />
       <workItem from="1706139147396" duration="11000" />
+      <workItem from="1706731868900" duration="227000" />
+      <workItem from="1706732115406" duration="124000" />
+      <workItem from="1706732254368" duration="2763000" />
+      <workItem from="1706735030079" duration="1027000" />
+      <workItem from="1706818713768" duration="6407000" />
+      <workItem from="1706827470436" duration="1929000" />
+      <workItem from="1706998098450" duration="69000" />
+      <workItem from="1706999843588" duration="624000" />
+      <workItem from="1707065369088" duration="74000" />
+      <workItem from="1707071050819" duration="787000" />
     </task>
     <servers />
   </component>
