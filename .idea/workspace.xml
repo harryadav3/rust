@@ -9,7 +9,273 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc5bddcd-0ac9-4558-889e-3e4aa5a679ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-319508150a18503c/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-e276abcbc3bb54b8/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/.idea/echor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/.fingerprint/echor-2041c24cda276377/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/.fingerprint/echor-2041c24cda276377/output-bin-echor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/.fingerprint/echor-57069053bccf987e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/.fingerprint/echor-57069053bccf987e/output-test-bin-echor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/.fingerprint/echor-e94e0254deb4958b/output-bin-echor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/deps/echor-2041c24cda276377.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/deps/echor-57069053bccf987e.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/13nb1uyhqux0q67o.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/166o2xkfh8343ton.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/1bllmdroe0egj1mq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/1emmz5b262dlwm3i.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/1j4c4ehbt93aoqjg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/1uvkkehfj3w80boe.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/26as3jb04fykc6g0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/2key7w1g4lwgt84y.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/3dibc33mhivix1yt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/3hnn1hy4db7vwor9.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/47ky2t8c13v0zacn.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/4v4au9u194pqbvdb.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/55y9yk8oblotju0h.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/5bf7lna7k6wn1iop.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/5cqvt0e1srp3u9ol.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/bematyozryj8av0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/ymwmhqy29vrwuxh.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/13nb1uyhqux0q67o.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/166o2xkfh8343ton.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/1bllmdroe0egj1mq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/1emmz5b262dlwm3i.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/1hdt9picylopq16w.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/1j4c4ehbt93aoqjg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/1uvkkehfj3w80boe.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/26as3jb04fykc6g0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/2hk6kdlepfmhaz0u.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/2key7w1g4lwgt84y.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/2p3due2cle4hljfn.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/2viz5r559m6qtmko.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/3dibc33mhivix1yt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/3hnn1hy4db7vwor9.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/47ky2t8c13v0zacn.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/4kceiuumuzc7xba1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/4v4au9u194pqbvdb.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/55y9yk8oblotju0h.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/5bf7lna7k6wn1iop.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/5cqvt0e1srp3u9ol.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/5eoskecxubjelohq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/bematyozryj8av0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5-working/ymwmhqy29vrwuxh.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9mcc9j-6pzmo5.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/13nb1uyhqux0q67o.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/166o2xkfh8343ton.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/1bllmdroe0egj1mq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/1emmz5b262dlwm3i.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/1hdt9picylopq16w.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/1j4c4ehbt93aoqjg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/1uvkkehfj3w80boe.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/26as3jb04fykc6g0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/2hk6kdlepfmhaz0u.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/2key7w1g4lwgt84y.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/2p3due2cle4hljfn.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/2viz5r559m6qtmko.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/3dibc33mhivix1yt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/3hnn1hy4db7vwor9.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/47ky2t8c13v0zacn.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/4kceiuumuzc7xba1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/4v4au9u194pqbvdb.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/55y9yk8oblotju0h.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/5bf7lna7k6wn1iop.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/5cqvt0e1srp3u9ol.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/5eoskecxubjelohq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/bematyozryj8av0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r-working/ymwmhqy29vrwuxh.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gufd9nb0hy-icr20r.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-31j1gdy9v91m5/s-guaoxxibv6-korr9x-working/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-31j1gdy9v91m5/s-guaoxxibv6-korr9x-working/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-31j1gdy9v91m5/s-guaoxxibv6-korr9x.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-3es8il6rhntb1/s-guaoxxibw8-1epcqhg-working/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-3es8il6rhntb1/s-guaoxxibw8-1epcqhg-working/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-3es8il6rhntb1/s-guaoxxibw8-1epcqhg.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-4a7dee306f4b0ea1/bin-closures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-4a7dee306f4b0ea1/bin-closures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-4a7dee306f4b0ea1/dep-bin-closures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-4a7dee306f4b0ea1/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-68a50b4202b5ff97/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-68a50b4202b5ff97/test-bin-closures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-68a50b4202b5ff97/test-bin-closures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-7be2ad7754d0b84f/bin-closures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-7be2ad7754d0b84f/bin-closures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-7be2ad7754d0b84f/dep-bin-closures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-7be2ad7754d0b84f/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-b4dd344edb3ab02b/dep-test-bin-closures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-b4dd344edb3ab02b/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-b4dd344edb3ab02b/test-bin-closures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-b4dd344edb3ab02b/test-bin-closures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-bc7651202dff9468/bin-closures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-bc7651202dff9468/bin-closures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/.fingerprint/closures-bc7651202dff9468/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/closures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/closures.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/deps/closures-4a7dee306f4b0ea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/deps/closures-4a7dee306f4b0ea1.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/deps/closures-7be2ad7754d0b84f.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/deps/closures-b4dd344edb3ab02b.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/deps/libclosures-7be2ad7754d0b84f.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/deps/libclosures-b4dd344edb3ab02b.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-2hgid9d5bw2wo/s-guq8y8eew9-mwbbvt-1k888aurtivpiel10k57wasur/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-2hgid9d5bw2wo/s-guq8y8eew9-mwbbvt-1k888aurtivpiel10k57wasur/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-2hgid9d5bw2wo/s-guq8y8eew9-mwbbvt-1k888aurtivpiel10k57wasur/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-2hgid9d5bw2wo/s-guq8y8eew9-mwbbvt.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/1fqcuplx22mtzoz4.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/1iojr41v7i5y6trt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/1xggdrks23s0mqb5.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/2ed120nqj58kcwcz.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/2jdnn4pnq7isifax.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/3t5sm5db4gme5zf2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/52ak2xu2xt3vz3ie.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/5fpw92yxoygcv6li.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/7khyfhsq0w343bk.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/gfxm2zl71lx4sl8.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/ppznreake47wfh5.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/rz0im1mmfzrv3t9.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/s1vss0njlljva4m.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/t5yyanx1oxrm3yo.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/tg3brvcrxjn0vxp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/v8u2439wsel7tul.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-rxc6y4t3xj5s/s-guq8y8dlwi-855nza-f36194rjmo33bra2f13l65m98/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-rxc6y4t3xj5s/s-guq8y8dlwi-855nza-f36194rjmo33bra2f13l65m98/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-rxc6y4t3xj5s/s-guq8y8dlwi-855nza-f36194rjmo33bra2f13l65m98/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-rxc6y4t3xj5s/s-guq8y8dlwi-855nza.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/cfg-if-b2566a54442c411f/dep-lib-cfg-if" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/cfg-if-b2566a54442c411f/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/cfg-if-b2566a54442c411f/lib-cfg-if" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/cfg-if-b2566a54442c411f/lib-cfg-if.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/getrandom-c09098d5794600d8/dep-lib-getrandom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/getrandom-c09098d5794600d8/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/getrandom-c09098d5794600d8/lib-getrandom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/getrandom-c09098d5794600d8/lib-getrandom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/guessing_game-4fdb66596d66e27a/bin-guessing_game" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/guessing_game-4fdb66596d66e27a/bin-guessing_game.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/guessing_game-4fdb66596d66e27a/dep-bin-guessing_game" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/guessing_game-4fdb66596d66e27a/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/guessing_game-b06efb9980037bc9/dep-test-bin-guessing_game" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/guessing_game-b06efb9980037bc9/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/guessing_game-b06efb9980037bc9/test-bin-guessing_game" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/guessing_game-b06efb9980037bc9/test-bin-guessing_game.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/libc-8923ed6e760102fc/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/libc-8923ed6e760102fc/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/libc-aadd3ac5df622dad/build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/libc-aadd3ac5df622dad/build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/libc-aadd3ac5df622dad/dep-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/libc-aadd3ac5df622dad/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/libc-d42864904da48108/dep-lib-libc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/libc-d42864904da48108/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/libc-d42864904da48108/lib-libc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/libc-d42864904da48108/lib-libc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/ppv-lite86-08dec1d91c1a78a7/dep-lib-ppv-lite86" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/ppv-lite86-08dec1d91c1a78a7/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/ppv-lite86-08dec1d91c1a78a7/lib-ppv-lite86" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/ppv-lite86-08dec1d91c1a78a7/lib-ppv-lite86.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand-a27b302fc1e5fa9e/dep-lib-rand" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand-a27b302fc1e5fa9e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand-a27b302fc1e5fa9e/lib-rand" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand-a27b302fc1e5fa9e/lib-rand.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand_chacha-c43cdc56f681f9c0/dep-lib-rand_chacha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand_chacha-c43cdc56f681f9c0/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand_chacha-c43cdc56f681f9c0/lib-rand_chacha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand_chacha-c43cdc56f681f9c0/lib-rand_chacha.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand_core-fdc0235b41f1a560/dep-lib-rand_core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand_core-fdc0235b41f1a560/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand_core-fdc0235b41f1a560/lib-rand_core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/.fingerprint/rand_core-fdc0235b41f1a560/lib-rand_core.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/build/libc-8923ed6e760102fc/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/build/libc-8923ed6e760102fc/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/build/libc-8923ed6e760102fc/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/build/libc-8923ed6e760102fc/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/build/libc-aadd3ac5df622dad/build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/build/libc-aadd3ac5df622dad/build_script_build-aadd3ac5df622dad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/build/libc-aadd3ac5df622dad/build_script_build-aadd3ac5df622dad.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/cfg_if-b2566a54442c411f.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/getrandom-c09098d5794600d8.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/guessing_game-4fdb66596d66e27a.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/guessing_game-b06efb9980037bc9.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/libc-d42864904da48108.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/libcfg_if-b2566a54442c411f.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/libgetrandom-c09098d5794600d8.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/libguessing_game-4fdb66596d66e27a.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/libguessing_game-b06efb9980037bc9.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/liblibc-d42864904da48108.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/libppv_lite86-08dec1d91c1a78a7.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/librand-a27b302fc1e5fa9e.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/librand_chacha-c43cdc56f681f9c0.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/librand_core-fdc0235b41f1a560.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/ppv_lite86-08dec1d91c1a78a7.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/rand-a27b302fc1e5fa9e.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/rand_chacha-c43cdc56f681f9c0.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/deps/rand_core-fdc0235b41f1a560.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/incremental/guessing_game-37yxii594bc0x/s-gug7t6c5vz-g09vxw-24yy64znnwxa72mynnuluplo1/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/incremental/guessing_game-37yxii594bc0x/s-gug7t6c5vz-g09vxw-24yy64znnwxa72mynnuluplo1/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/incremental/guessing_game-37yxii594bc0x/s-gug7t6c5vz-g09vxw-24yy64znnwxa72mynnuluplo1/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/incremental/guessing_game-37yxii594bc0x/s-gug7t6c5vz-g09vxw.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/incremental/guessing_game-3ppdtci2b535s/s-gug7t6c81e-1tpewby-5gg58v8muzd5hg5vcqmmsd9s6/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/incremental/guessing_game-3ppdtci2b535s/s-gug7t6c81e-1tpewby-5gg58v8muzd5hg5vcqmmsd9s6/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/incremental/guessing_game-3ppdtci2b535s/s-gug7t6c81e-1tpewby-5gg58v8muzd5hg5vcqmmsd9s6/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/guessing_game/target/debug/incremental/guessing_game-3ppdtci2b535s/s-gug7t6c81e-1tpewby.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/helloworld/target/debug/.fingerprint/helloworld-0abf598e87ef0b66/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/helloworld/target/debug/.fingerprint/helloworld-0abf598e87ef0b66/test-bin-helloworld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/helloworld/target/debug/.fingerprint/helloworld-0abf598e87ef0b66/test-bin-helloworld.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/helloworld/target/debug/.fingerprint/helloworld-2052a72f83cf2355/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/helloworld/target/debug/.fingerprint/helloworld-2052a72f83cf2355/output-bin-helloworld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/helloworld/target/debug/.fingerprint/helloworld-a795e745f618b762/bin-helloworld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/helloworld/target/debug/.fingerprint/helloworld-a795e745f618b762/bin-helloworld.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/helloworld/target/debug/.fingerprint/helloworld-a795e745f618b762/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/helloworld/target/debug/.fingerprint/helloworld-f27d64468bc1a969/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/helloworld/target/debug/.fingerprint/helloworld-f27d64468bc1a969/output-test-bin-helloworld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-1fa63fb508cb263b/output-test-bin-demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-319508150a18503c/output-test-bin-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-1fa63fb508cb263b/test-bin-demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-1fa63fb508cb263b/test-bin-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-d68faa9fb5567cb0/bin-demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-d68faa9fb5567cb0/bin-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-d68faa9fb5567cb0/output-bin-demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/debug/.fingerprint/demo-e276abcbc3bb54b8/output-bin-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/echor/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/echor/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/.fingerprint/echor-e94e0254deb4958b/bin-echor" beforeDir="false" afterPath="$PROJECT_DIR$/echor/target/debug/.fingerprint/echor-e94e0254deb4958b/bin-echor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/deps/echor-e94e0254deb4958b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/echor" beforeDir="false" afterPath="$PROJECT_DIR$/echor/target/debug/echor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/166o2xkfh8343ton.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/1bllmdroe0egj1mq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/1hdt9picylopq16w.o" beforeDir="false" afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/1hdt9picylopq16w.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/1j4c4ehbt93aoqjg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/2hk6kdlepfmhaz0u.o" beforeDir="false" afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/2hk6kdlepfmhaz0u.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/2key7w1g4lwgt84y.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/2p3due2cle4hljfn.o" beforeDir="false" afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/2p3due2cle4hljfn.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/2viz5r559m6qtmko.o" beforeDir="false" afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/2viz5r559m6qtmko.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/3dibc33mhivix1yt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/3hnn1hy4db7vwor9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/4kceiuumuzc7xba1.o" beforeDir="false" afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/4kceiuumuzc7xba1.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/5eoskecxubjelohq.o" beforeDir="false" afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg-5ecnsbzieflaugzhv2nzopql4/5eoskecxubjelohq.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/query-cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/learn/closures/target/debug/incremental/closures-qf6zquikgdds/s-guq8za1p80-yau1dl-dps9xxup7ene5q55jkdqtrt8d/query-cache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb-55xiaw26k348j2wnjf9zzc80x/ymwmhqy29vrwuxh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gtvaw2pkz6-1wrbtjb.lock" beforeDir="false" afterPath="$PROJECT_DIR$/echor/target/debug/incremental/echor-2zblravngybfw/s-gu7tzupr9g-1e5qckg.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hello/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/guessing_game/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/learn/guessing_game/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/helloworld/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/learn/helloworld/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +386,9 @@
       <workItem from="1708452354585" duration="62000" />
       <workItem from="1709215118020" duration="8000" />
       <workItem from="1709215411693" duration="50000" />
+      <workItem from="1710205682163" duration="57000" />
+      <workItem from="1710566048839" duration="462000" />
+      <workItem from="1713635752153" duration="568000" />
     </task>
     <servers />
   </component>
